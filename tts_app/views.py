@@ -36,12 +36,12 @@ def tts_form(request):
         else:
             result = f"Error: {response.status_code}\n{response.text}"
 
-            return render(request, 'about.html', {'result': result, 'audio_link': audio_link})
+            return render(request, 'home.html', {'result': result, 'audio_link': audio_link})
 
     return render(request, 'tts_form.html', {'result': result, 'audio_link': audio_link})
 
 
-def about(request):
-    return render(request, 'about.html')
+def home(request):
+    return render(request, 'home.html')
 
 # Create your views here.

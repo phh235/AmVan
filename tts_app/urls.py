@@ -1,1 +1,1 @@
-# tts_app/urls.pyfrom django.urls import pathfrom .views import tts_form, abouturlpatterns = [    path('', tts_form, name='tts_form'),    path('about', about, name='about'),]
+# tts_app/urls.pyfrom django.urls import pathfrom .views import tts_form, homeurlpatterns = [    path('', home, name='home'),    path('chuyen-doi-van-ban-thanh-am-thanh', tts_form, name='tts_form'),]
