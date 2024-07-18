@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="43c33053-0ef7-461b-a1bb-83db44aa429a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/bg1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/tts_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tts_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tts_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tts_app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +40,10 @@
     &quot;accountId&quot;: &quot;21b306b0-b0bb-499d-af6f-048d2fd1b454&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -150,7 +151,7 @@
       <workItem from="1721185526926" duration="479000" />
       <workItem from="1721197556895" duration="23000" />
       <workItem from="1721218513668" duration="13801000" />
-      <workItem from="1721273198092" duration="12666000" />
+      <workItem from="1721273198092" duration="24217000" />
     </task>
     <servers />
   </component>
