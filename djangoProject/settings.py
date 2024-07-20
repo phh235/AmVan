@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ilcr+w=jr%462(jt*dc9w+a87+)7h)3_t5z--tl(_rt^w*8_!z
 DEBUG = True
 
 # Allow hosting and domain
-ALLOWED_HOSTS = ['.vercel.app', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['.vercel.app', '127.0.0.1', 'localhost', 'amvan.site']
 
 
 
