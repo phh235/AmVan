@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/tts_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tts_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tts_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tts_app/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +167,8 @@
       <workItem from="1721615761299" duration="4965000" />
       <workItem from="1721649292992" duration="2966000" />
       <workItem from="1721789325404" duration="1936000" />
-      <workItem from="1721803997118" duration="409000" />
+      <workItem from="1721803997118" duration="1213000" />
+      <workItem from="1721822715106" duration="2675000" />
     </task>
     <servers />
   </component>
